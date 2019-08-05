@@ -8,7 +8,7 @@ How to run React:
     - Do npm install
     - Do npm start
 - After second run:
-    - Do npm install only
+    - Do npm start
 
 When commit remember to:
 - Do not change package.json/package-lock.json
