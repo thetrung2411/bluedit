@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,20 +66,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
-# bluedit
-
-Required package to run:
-- Node js
-
-How to run React:
-- First run:
-    - Do npm install
-    - Do npm start
-- After second run:
-    - Do npm start
-
-When commit remember to:
-- Do not change package.json/package-lock.json
-- If you install any new libraries/dependencies, please notify on Slack
->>>>>>> 8fef804451be4615080f46e0986fb857f4ecb00b
