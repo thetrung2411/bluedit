@@ -69,7 +69,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 =======
 # bluedit
-
+A social media app
 Required package to run:
 - Node js
 
