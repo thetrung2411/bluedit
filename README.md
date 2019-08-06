@@ -75,6 +75,7 @@ Required package to run:
 
 How to run React:
 - First run:
+    - Do git pull
     - Do npm install
     - Do npm start
 - After second run:
